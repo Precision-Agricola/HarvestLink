@@ -1,0 +1,8 @@
+boto3
+Adafruit-DHT
+pynmea2
+RPi.GPIO
+serial
+wasabi
+requests
+python-dotenv

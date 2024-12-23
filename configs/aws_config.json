@@ -1,0 +1,6 @@
+{
+    "endpoint": "your-iot-endpoint.amazonaws.com",
+    "region": "us-east-1",
+    "topic": "iot/sensor_data"
+}
+
