@@ -1,3 +1,9 @@
+# Devices info
+devices_details/
+
+# Pico LTE SDK
+src/pico_lte_sdk/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
